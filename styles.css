@@ -74,7 +74,7 @@ form label{
 form input[type="text"]
 form input[type="email"]
 form input[type="password"] { 
-    width: 100%;
+    width: 200%;
     padding: 12px;
     margin-bottom: 15px;
     border: none;
